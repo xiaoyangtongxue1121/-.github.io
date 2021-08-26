@@ -8,6 +8,7 @@ Happy           fishing   o( =•ω•= )m--------------------------------------
 
 ###  -[Vi/Vim](notes/ViVim——文本编辑器.md)
 
+### -[Yum and apt](notes/Yum20%and20%apt.md)
  
 # touch the fish
 
