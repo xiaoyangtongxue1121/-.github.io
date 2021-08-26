@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+# Welcome to xiaoyangtongxue's blog
 
-You can use the [editor on GitHub](https://github.com/xiaoyangtongxue1121/-.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+------------------------------------------------------------Happy           fishing   o( =•ω•= )m----------------------------------------------------------
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Linux time
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/xiaoyangtongxue1121/-.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+##  -[Linux 基础](https://github.com/xiaoyangtongxue1121/xiaoyangtongxue1121.github.io/blob/gh-pages/notes/Linux.md)
+##  -[Vi/Vim](https://github.com/xiaoyangtongxue1121/xiaoyangtongxue1121.github.io/blob/gh-pages/notes/ViVim%E2%80%94%E2%80%94%E6%96%87%E6%9C%AC%E7%BC%96%E8%BE%91%E5%99%A8.md)
+## -[Yum and apt](https://github.com/xiaoyangtongxue1121/xiaoyangtongxue1121.github.io/blob/gh-pages/notes/Yum%20and%20apt.md)
+ 
+# touch the fish
