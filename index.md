@@ -8,7 +8,7 @@ Happy           fishing   o( =•ω•= )m--------------------------------------
 
 ###  -[Vi/Vim](notes/ViVim——文本编辑器.md)
 
-### -[Yum and apt](https://github.com/xiaoyangtongxue1121/xiaoyangtongxue1121.github.io/blob/gh-pages/notes/Yum%20and%20apt.md)
+### -[Yum](notes/Yum.md)
 
 ###  -[shell——helloworld](notes/shell——helloworld.md)
 
